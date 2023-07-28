@@ -1,0 +1,45 @@
+{
+    "personalInformation": {
+        "fullName": "John Doe",
+        "dateOfBirth": "1990-05-01",
+        "contactInformation": {
+            "address": "123 Main St",
+            "phoneNumber": "555-1234",
+            "email": "johndoe@example.com"
+        }
+    },
+    "academicQualifications": {
+        "undergraduateDegree": "it Well be decoded according to the rules and we will check every admition details",
+        "transcripts": "Transcripts.pdf",
+        "certificates": "Certificates.pdf"
+    },
+    "testScores": {
+        "standardizedTest": "GRE",
+        "testScores": "Verbal: 160, Quantitative: 165, Analytical Writing: 4.5"
+    },
+    "lettersOfRecommendation": [
+        {
+            "name": "Jane Smith",
+            "position": "Professor",
+            "institution": "ABC University",
+            "contactInformation": {
+                "address": "456 College Ave",
+                "phoneNumber": "555-5678",
+                "email": "janesmith@example.com"
+            }
+        },
+        {
+            "name": "Bob Johnson",
+            "position": "Manager",
+            "institution": "XYZ Company",
+            "contactInformation": {
+                "address": "789 Business Blvd",
+                "phoneNumber": "555-9012",
+                "email": "bobjohnson@example.com"
+            }
+        }
+    ],
+    "statementOfPurpose": "I am applying for the Master of Science program in Computer Science at XYZ University. My research interests include artificial intelligence and natural language processing. I believe that XYZ University's faculty and research opportunities are an ideal match for my goals and aspirations.",
+    "applicationFee": "No Fee ",
+    "additionalRequirements": "Resume/CV, Writing Sample"
+}

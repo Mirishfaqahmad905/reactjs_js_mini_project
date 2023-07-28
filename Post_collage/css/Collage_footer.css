@@ -1,0 +1,22 @@
+.Collage_footer{
+     background-color: rgba(10, 22, 17, 0.753);
+      color: white;
+}
+.list-unstyled li a {
+     color: white;
+      text-decoration: none;
+      margin-top: 4px;;
+}
+ .list-unstyled li{
+    list-style: none;
+ }
+  @media screen and  (max-width:768px){
+     
+    .Collage_footer{
+       
+            background-color: rgba(7, 7, 17, 0.753);
+             color: white;
+       
+         
+   }
+  }

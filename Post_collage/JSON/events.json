@@ -1,0 +1,189 @@
+{
+   "events":[
+      {
+        "id": 1,
+        "title": "Event 1",
+        "date": "2023-05-01",
+        "time": "09:00 AM",
+        "location": "Location 1",
+        "description": "Description of Event 1",
+        "highlights": [
+          "Highlight 1",
+          "Highlight 2",
+          "Highlight 3"
+        ],
+        "photos": [
+          "https://i.pinimg.com/originals/88/64/29/88642968d790cd9635b21f7924c781f0.jpg",
+          "https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f3153c82aa4a315798992b1_campus-event.jpeg",
+          "Photo 3"
+        ],
+        "faqs": [
+          "FAQ 1",
+          "FAQ 2",
+          "FAQ 3"
+        ],
+        "contactEmail": "event1@example.com",
+        "contactPhone": "123-456-7890",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/event1",
+          "twitter": "https://www.twitter.com/event1",
+          "instagram": "https://www.instagram.com/event1"
+        },
+        "sponsors": [
+          "Sponsor 1",
+          "Sponsor 2",
+          "Sponsor 3"
+        ],
+        "callToAction": "Register Now"
+      },
+      {
+        "id": 3,
+        "title": "Event 1",
+        "date": "2023-05-01",
+        "time": "09:00 AM",
+        "location": "Location 1",
+        "description": "Description of Event 1",
+        "highlights": [
+          "Highlight 1",
+          "Highlight 2",
+          "Highlight 3"
+        ],
+        "photos": [
+          "https://i.pinimg.com/originals/88/64/29/88642968d790cd9635b21f7924c781f0.jpg",
+          "https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f3153c82aa4a315798992b1_campus-event.jpeg",
+          "Photo 3"
+        ],
+        "faqs": [
+          "FAQ 1",
+          "FAQ 2",
+          "FAQ 3"
+        ],
+        "contactEmail": "event1@example.com",
+        "contactPhone": "123-456-7890",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/event1",
+          "twitter": "https://www.twitter.com/event1",
+          "instagram": "https://www.instagram.com/event1"
+        },
+        "sponsors": [
+          "Sponsor 1",
+          "Sponsor 2",
+          "Sponsor 3"
+        ],
+        "callToAction": "Register Now"
+      },
+      {
+        "id": 2,
+        "title": "Event 2",
+        "date": "2023-06-15",
+        "time": "02:00 PM",
+        "location": "Location 2",
+        "description": "Description of Event 2",
+        "highlights": [
+          "Highlight 1",
+          "Highlight 2",
+          "Highlight 3"
+        ],
+        "photos": [
+          "Photo 1",
+          "Photo 2",
+          "Photo 3"
+        ],
+        "faqs": [
+          "FAQ 1",
+          "FAQ 2",
+          "FAQ 3"
+        ],
+        "contactEmail": "event2@example.com",
+        "contactPhone": "987-654-3210",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/event2",
+          "twitter": "https://www.twitter.com/event2",
+          "instagram": "https://www.instagram.com/event2"
+        },
+        "sponsors": [
+          "Sponsor 1",
+          "Sponsor 2",
+          "Sponsor 3"
+        ],
+        "callToAction": "Register Now"
+      }
+    
+   ],
+      "events":[
+      {
+        "id": 1,
+        "title": "Event 1",
+        "date": "2023-05-01",
+        "time": "09:00 AM",
+        "location": "Location 1",
+        "description": "Description of Event 1",
+        "highlights": [
+       "Ali and ishfaq is the organizer in this events",
+          "Highlight 3"
+        ],
+        "photos": [
+          "https://i.pinimg.com/originals/88/64/29/88642968d790cd9635b21f7924c781f0.jpg",
+          "https://assets-global.website-files.com/5eff9c5e4dba181f8aa2d1e0/5f3153c82aa4a315798992b1_campus-event.jpeg",
+          "Photo 3"
+        ],
+        "faqs": [
+          "FAQ 1",
+          "FAQ 2",
+          "FAQ 3"
+        ],
+        "contactEmail": "event1@example.com",
+        "contactPhone": "123-456-7890",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/event1",
+          "twitter": "https://www.twitter.com/event1",
+          "instagram": "https://www.instagram.com/event1"
+        },
+        "sponsors": [
+          "Sponsor 1",
+          "Sponsor 2",
+          "Sponsor 3"
+        ],
+        "callToAction": "Register Now"
+      },
+      {
+        "id": 2,
+        "title": "Event 2",
+        "date": "2023-06-15",
+        "time": "02:00 PM",
+        "location": "Location 2",
+        "description": "Description of Event 2",
+        "highlights": [
+          "Ali and ishfaq is the organizer in this events",
+          "Highlight 2",
+          "Highlight 3"
+        ],
+        "photos": [
+          "https://i.pinimg.com/originals/88/64/29/88642968d790cd9635b21f7924c781f0.jpg",
+          "Photo 2",
+          "Photo 3"
+        ],
+        "faqs": [
+          "FAQ 1",
+          "FAQ 2",
+          "FAQ 3"
+        ],
+        "contactEmail": "event2@example.com",
+        "contactPhone": "987-654-3210",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/event2",
+          "twitter": "https://www.twitter.com/event2",
+          "instagram": "https://www.instagram.com/event2"
+        },
+        "sponsors": [
+          "Sponsor 1",
+          "Sponsor 2",
+          "Sponsor 3"
+        ],
+        "callToAction": "Register Now"
+      }
+     
+   ]
+  }
+    
+

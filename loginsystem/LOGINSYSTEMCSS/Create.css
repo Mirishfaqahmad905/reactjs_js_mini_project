@@ -1,0 +1,91 @@
+.create-account-react {
+     margin-top: 100px;;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .create-account-header {
+    background-color: #030314;
+    padding: 1rem;
+    margin: 2rem 0;
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .create-account-form {
+    background-color: #063347;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .myaccountform label {
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+     color: white;
+  }
+  
+  .myaccountform input[type='text'],
+  .myaccountform input[type='email'],
+  .myaccountform input[type='password'] {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: none;
+    font-size: 1rem;
+    background-color: #fff;
+    color: #333;
+    transition: all 0.3s ease;
+  }
+  
+  .myaccountform input[type='text']:focus,
+  .myaccountform input[type='email']:focus,
+  .myaccountform input[type='password']:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .myaccountform input[type='submit'] {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #16df7a;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .myaccountform input[type='submit']:hover {
+    background-color: #14c268;
+  }
+  
+  @media screen and (max-width: 480px) {
+    .create-account-form {
+      padding: 1rem;
+    }
+    
+    .myaccountform input[type='submit'] {
+      width: 100%;
+    }
+  }
+  

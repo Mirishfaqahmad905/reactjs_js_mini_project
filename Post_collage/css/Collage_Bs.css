@@ -1,0 +1,73 @@
+.Admition_container{
+     background-color: #FFFF;
+
+}
+.col-row-online-admition{
+     margin-top: 20px;;
+      margin-bottom: 23px;;
+    display: grid;
+    grid-template-columns: 1fr 2fr 0.4fr ;;    
+ }
+.Admition_container form input[type='text']{
+     border-radius: 9px;;
+       margin: 9px;;
+}
+.Admition_container form {
+     display: flex;
+      background-color: rgb(14, 235, 161);
+      justify-content: space-around;
+       flex-direction: column;
+        padding: 10px;;
+        width: 400px;;
+         margin-top: 40px;;
+          margin-bottom: 30px;;
+}
+ .Admition_container form input{
+     margin-top: 23px;;
+      padding: 6px;;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+ }
+  .Admition_container form label{
+     text-align: center;
+      margin-top: 9px;;
+       margin-bottom: 9px;;
+        border-bottom: 1px solid rgb(0, 0, 0);
+  }
+  .Admition_container form select{
+     padding: 9px;;
+     text-align: center;
+      margin-top: 9px;;
+       margin-bottom: 9px;;
+  }
+  .container-list-left-banner ul li {
+       margin-top: 20px;;;
+  }
+  .important-link {
+     width: 400px;
+     text-align: center;
+     margin-top: 200px;
+   }
+   
+   .important-link ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+   }
+   
+   .important-link ul li {
+     margin-top: 40px;
+   }
+   .important-link ul li a {
+     text-decoration: none;
+     color: #000; /* Change color as desired */
+   }
+    /*  slider  */
+    .carousel-inner{
+      height: 500px;;
+    }
+    .header-page-tittle{
+      margin-top: 20px;; 
+      text-align: center;
+    }

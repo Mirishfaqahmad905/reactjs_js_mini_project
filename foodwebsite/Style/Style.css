@@ -1,0 +1,21 @@
+.ul_list{
+     display: flex;
+      
+     justify-content: space-between;
+    }
+    .ul-list li  {
+          list-style-type: none;
+    }
+      ul li {
+         list-style-type: none;
+          padding: 23px;;
+      }
+       .box-card-mu{
+         display: flex;
+          justify-content: space-around;
+           margin-top: 50px;;
+           
+       }
+        .devider{
+             text-align: center;
+        }

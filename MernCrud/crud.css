@@ -1,0 +1,75 @@
+.crud-mern {
+    background-color: rgb(12, 4, 27);
+    text-align: center;
+    margin-top: 2rem;
+    color: white;
+    padding: 2rem;
+  }
+  
+  .crud-mern form {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .crud-mern form input {
+    padding: 8px;;
+    margin: 1rem;
+    width: 100%;
+    max-width: 30rem;
+  }
+  
+  .crud-mern form button {
+    
+    text-align: center;
+    margin: 1rem 0 0 auto;
+    width: 20rem;
+    padding: 1rem;
+    background-color: rgb(11, 155, 131);
+    border: none;
+    color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .mern-table {
+    padding: 2rem;
+    margin-top: 2rem;
+     margin-left: 8rem;
+    border: 2px solid green;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+  }
+  
+  .mern-table tbody {
+    text-align: center;
+  }
+  
+  .mern-table button {
+    padding: 1rem;
+    width: 10rem;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .crud-mern form {
+      flex-direction: row;
+      justify-content: space-between;
+      max-width: 60rem;
+      margin: 0 auto;
+    }
+  
+    .crud-mern form input {
+      max-width: 20rem;
+        border-radius: 2rem;
+    }
+  }
+  

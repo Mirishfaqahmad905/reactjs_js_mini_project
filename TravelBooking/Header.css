@@ -1,0 +1,18 @@
+.travel-header{
+     background-color:#f4f4f4;
+      padding: 23px;;
+}
+.nav-travel{
+     display: flex;
+     justify-content: space-around;
+}
+.travel-ul{
+     display: flex;
+     justify-content: space-around;
+}
+ .travel-ul li {
+     margin: 9px;;
+      text-decoration: none;
+      list-style-type: none;
+ }
+ 

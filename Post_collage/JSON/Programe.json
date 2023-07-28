@@ -1,0 +1,107 @@
+[
+  {
+  "id": 1,
+  "title": "Arts/Humanities",
+  "details": "VIEW DETAILS",
+  "description": "Department of Arts and Humanities at Post Graduate College Timeragara offers various undergraduate and postgraduate degree programs in the fields of literature, languages, history, philosophy, and other related subjects.",
+   "image":"../../Public/img3.png"
+},
+  {
+  "id": 2,
+  "title": "BS Botany",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Botany at Post Graduate College Timeragara offers undergraduate degree programs in the field of botany which includes the study of plants and their structures, growth, and development, as well as their relationship with the environment."
+  },
+  {
+  "id": 3,
+  "title": "BS Chemistry",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Chemistry at Post Graduate College Timeragara offers undergraduate degree programs in the field of chemistry which includes the study of matter, its properties, composition, and behavior, as well as the changes it undergoes during chemical reactions."
+  ,
+  "image":"this is iage url are "},
+  {
+  "id": 4,
+  "title": "BS Computer Science",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Computer Science at Post Graduate College Timeragara offers undergraduate and postgraduate degree programs in the field of computer science which includes the study of algorithms, programming languages, software development, and computer systems.",
+  "image":"this is iage url are "
+  },
+  {
+  "id": 5,
+  "title": "BS Economics",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Economics at Post Graduate College Timeragara offers undergraduate degree programs in the field of economics which includes the study of production, distribution, and consumption of goods and services, as well as economic policies and systems."
+  },
+  {
+  "id": 6,
+  "title": "BS English",
+  "details": "VIEW DETAILS",
+  "description": "The Department of English at Post Graduate College Timeragara offers undergraduate degree programs in the field of English language and literature which includes the study of literature, language, linguistics, and critical analysis of various literary works."
+  },
+  {
+  "id": 7,
+  "title": "BS Health & Physical Education",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Health and Physical Education at Post Graduate College Timeragara offers undergraduate degree programs in the field of health and physical education which includes the study of physical fitness, sports science, and health education.",
+     "image":"https://cosmosmagazine.com/wp-content/uploads/2022/05/math.jpg"
+},
+  {
+  "id": 8,
+  "title": "BS History",
+  "details": "VIEW DETAILS",
+  "description": "The Department of History at Post Graduate College Timeragara offers undergraduate degree programs in the field of history which includes the study of human past events and their impact on society and culture, as well as historical research methods and analysis.",
+  "image":"https://cosmosmagazine.com/wp-content/uploads/2022/05/math.jpg"
+  },
+  {
+  "id": 9,
+  "title": "BS Islamic Studies",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Islamic Studies at Post Graduate College Timeragara offers undergraduate degree programs in the field of Islamic studies which includes the study of Quran, Hadith, Islamic history, and jurisprudence.",
+  "image":"https://cosmosmagazine.com/wp-content/uploads/2022/05/math.jpg"
+  },
+  {
+  "id": 10,
+  "title": "BS Mathematics",
+  "details": "VIEW DETAILS",
+  "description": "The Department of Mathematics at Post Graduate College Timeragara offers undergraduate degree programs in the field of mathematics which includes the study of numbers, quantities, and shapes, as well as their relationships and properties.",
+  "image":"https://cosmosmagazine.com/wp-content/uploads/2022/05/math.jpg"
+  },
+    {
+      "id": 15,
+      "title": "BS Sociology",
+      "details": "VIEW DETAILS",
+      "image":"https://cosmosmagazine.com/wp-content/uploads/2022/05/math.jpg"
+    },
+    {
+      "id": 16,
+      "title": "BS Urdu",
+      "details": "VIEW DETAILS",
+      "image":"https://cosmosmagazine.com/wp-content/uploads/2022/04/math.jpg"
+    },
+    {
+      "id": 17,
+      "title": "BS Zoology",
+      "details": "VIEW DETAILS",
+      "description":"BS Sociology: This program focuses on the study of human society, including the relationships between individuals and groups, social institutions, and cultural practices. Students will learn about sociological theory, research methods, and how to analyze social issues and trends.",
+       "image":"https://pxl-imperialacuk.terminalfour.net/prod01/channel_2/media/study---restricted-images/course-pages/undergraduate/physics-1/BSc-Physics-with-Theoretical-Physics.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Computer Sciences",
+      "details": "VIEW DETAILS",
+      "description":"BS Sociology: This program focuses on the study of human society, including the relationships between individuals and groups, social institutions, and cultural practices. Students will learn about sociological theory, research methods, and how to analyze social issues and trends.",
+      "image":"https://pxl-imperialacuk.terminalfour.net/prod01/channel_2/media/study---restricted-images/course-pages/undergraduate/physics-1/BSc-Physics-with-Theoretical-Physics.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Pre-Engineering",
+      "details": "VIEW DETAILS",
+ "description":"BS Sociology: This program focuses on the study of human society, including the relationships between individuals and groups, social institutions, and cultural practices. Students will learn about sociological theory, research methods, and how to analyze social issues and trends."
+    },
+    {
+      "id": 20,
+      "title": "Pre-Medical",
+      "details": "VIEW DETAILS",
+      "description":"BS Sociology: This program focuses on the study of human society, including the relationships between individuals and groups, social institutions, and cultural practices. Students will learn about sociological theory, research methods, and how to analyze social issues and trends."
+    }
+  ]

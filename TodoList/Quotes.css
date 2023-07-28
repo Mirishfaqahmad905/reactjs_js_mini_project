@@ -1,0 +1,67 @@
+/* Quotes.css */
+
+.containerOfTheClass {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .containerOfTheClass h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .containerOfTheClass h2::before,
+  .containerOfTheClass h2::after {
+    content: '"';
+    font-size: 28px;
+    margin-right: 5px;
+    color: #888;
+  }
+  
+  .containerOfTheClass p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .containerOfTheClass button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .containerOfTheClass button:hover {
+    background-color: #0056b3;
+  }
+  
+  .containerOfTheClass details {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .containerOfTheClass details summary {
+    font-size: 16px;
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  .containerOfTheClass details summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  .containerOfTheClass details p {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #888;
+  }
+  
+  

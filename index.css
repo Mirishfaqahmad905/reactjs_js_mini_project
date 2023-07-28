@@ -1,0 +1,126 @@
+  *{
+     margin: 0px;
+      padding: 0px;
+       box-sizing: border-box;
+  }
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ thead{
+    padding: 20px;
+    background-color: green;
+ }
+ .table{
+     padding: 23px;;
+      margin-left: 233px;;
+        
+ }
+  table{
+     padding: 23px;;
+   font-size: 23px;;
+  }.btn-add{
+     background-color: green;
+      border: none;
+      padding: 23px;;
+       color: white;
+       font-size: 23px;;
+        border-radius:23px;;
+  }
+    .btn-edit{
+      background-color: rgb(30, 218, 30);
+      border: none;
+      padding: 23px;;
+       color: white;
+       font-size: 23px;;
+        border-radius:23px;;
+    }
+    .btn-view{
+      background-color: rgb(184, 218, 30);
+      border: none;
+      padding: 23px;;
+       color: white;
+       font-size: 23px;;
+        border-radius:23px;;
+    }
+  tbody{
+     text-align: center;
+      background-color: red;
+       color: white;
+       border: 3px solid brown;
+  }
+  
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+
+
+
+/* .nav-ul{
+   margin: 34px;
+    padding: 23px;;
+     font-family: sans-serif;
+      border-radius: 23px;;
+       padding: 23px;;
+     
+}
+ div ul {
+    background-color: rgb(26, 178, 248);
+ }
+  div ul li {
+      color: black;
+      font-weight: bolder;
+      text-transform: uppercase;
+  }
+.footer{
+     background-color: green;
+      color: white;
+       text-align: center;
+         padding: 23px;
+          margin-top: 340px;;
+}
+ ul {
+   display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr  1fr 1fr;
+     
+ }
+ ul li {
+     text-decoration: none;
+      list-style-type: none;
+       text-decoration: none;
+        color: rgb(172, 27, 27);
+         font-weight: 200;
+         
+  }
+   .signup{
+      text-align: center;
+      ;
+   }
+    div ul li {
+      color: white;
+       text-decoration: none;
+    }
+  .input-box{
+      margin: 5px;; 
+    padding: 13px;;
+     width: 400px;;
+     text-align: center;
+  }
+   .submit{
+      padding: 20px;;
+      color: rgb(3, 3, 3);
+       font-weight: bolder;
+       background-color: aqua;
+        border:none;
+         border-radius: 8px;;
+
+   }
+    */
+   

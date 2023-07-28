@@ -1,0 +1,61 @@
+{
+    "title": "What to Do Before Traveling",
+    "description": "A comprehensive guide to help you prepare for your upcoming trip, covering everything from planning to packing and essential tasks.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQUXpOW4lwtO4jlCPvIqGTg3N3C0g4tz1xDN5NZ3_iQe3To9FYG0OC0kQwLBckWF5qV4&usqp=CAU",
+    "sections": [
+      {
+        "title": "Destination Research",
+        "tasks": [
+          "Research the climate and weather conditions of your destination.",
+          "Learn about the local customs, etiquette, and cultural norms.",
+          "Find out if you need a visa or any specific travel documents.",
+          "Check for any travel advisories or warnings in your destination."
+        ]
+      },
+      {
+        "title": "Travel Planning",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQUXpOW4lwtO4jlCPvIqGTg3N3C0g4tz1xDN5NZ3_iQe3To9FYG0OC0kQwLBckWF5qV4&usqp=CAU",
+        "tasks": [
+          "Decide on the best time to visit based on your preferences.",
+          "Create an itinerary and prioritize the attractions or activities you want to experience.",
+          "Book your flights, accommodation, and transportation in advance.",
+          "Consider travel insurance and make necessary arrangements.",
+          "Check if you need any vaccinations or medications for your destination."
+        ]
+      },
+      {
+        "title": "Packing Essentials",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQUXpOW4lwtO4jlCPvIqGTg3N3C0g4tz1xDN5NZ3_iQe3To9FYG0OC0kQwLBckWF5qV4&usqp=CAU",
+        "tasks": [
+          "Make a checklist of essential items and clothing for your trip.",
+          "Pack appropriate travel adapters, chargers, and electronic devices.",
+          "Ensure you have necessary travel documents, identification, and copies of important documents.",
+          "Pack a basic first aid kit with essential medications.",
+          "Don't forget to bring any specific items needed for your activities (e.g., hiking gear, swimwear)."
+        ]
+      },
+      {
+        "title": "Finances and Communication",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAdmpg76H4CMy9AhV5jnGF-lCZR8Xl3_qD1Q&usqp=CAU",
+        "tasks": [
+          "Inform your bank about your travel plans to avoid any issues with your cards.",
+          "Exchange currency or check for ATMs at your destination.",
+          "Consider carrying a backup credit card or emergency cash.",
+          "Set up international roaming or get a local SIM card for your phone.",
+          "Install any useful travel apps or offline maps for your destination."
+        ]
+      },
+      {
+        "title": "Health and Safety",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyfQGMuzEKO6Wy6JwYozkp9zXlFmTgKGFyGcYeVPUv34A6w7wOSN9ouuFTi3pSHLQ9xI&usqp=CAU",
+        "tasks": [
+          "Visit your doctor for a health check-up and any necessary vaccinations.",
+          "Research any specific health risks or precautions for your destination.",
+          "Check your travel insurance coverage for medical emergencies.",
+          "Make copies of your important documents and keep them in a separate place.",
+          "Share your travel itinerary with family or friends for safety purposes."
+        ]
+      }
+    ]
+  }
+  

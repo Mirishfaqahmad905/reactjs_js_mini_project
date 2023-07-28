@@ -1,0 +1,42 @@
+.guide-us {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+     margin-top: 50px;;
+  }
+  
+  .image-guid {
+    width: 300px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .title {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    position: relative;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .description {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+  }
+  

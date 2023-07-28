@@ -1,0 +1,53 @@
+[
+    {
+      "DestinationName": "Beach Paradise",
+      "DestinationLocation": "Maldives",
+      "img": "https://media.istockphoto.com/id/1418806074/photo/group-of-eco-volunteers-picking-up-plastic-trash-on-the-beach-activist-people-collecting.jpg?b=1&s=170667a&w=0&k=20&c=hdDDI_7pfRipYCqX0cpV0kKFfUkLvkNO3jQppgPHE60="
+    },
+    {
+      "DestinationName": "Majestic Mountains",
+      "DestinationLocation": "Switzerland",
+      "img": "https://media.istockphoto.com/id/1394456695/photo/a-woman-at-the-airport-holding-a-passport-with-a-boarding-pass.jpg?b=1&s=170667a&w=0&k=20&c=ZQIDJXlLZr8S0N8NnscdPWWBAE68r1J3O2OksFGwWIc="
+    },
+    {
+      "DestinationName": "City of Lights",
+      "DestinationLocation": "Paris, France",
+      "img": "https://media.istockphoto.com/id/1403617423/photo/young-woman-tourist-in-sun-hat-and-white-dress-standing-in-front-of-eiffel-tower-in-paris-at.jpg?b=1&s=170667a&w=0&k=20&c=8zct4BwC48l6nZfbW3wV0BrIOKwFJFyOkdgPVAj8lrk="
+    },
+    {
+      "DestinationName": "Tropical Rainforest",
+      "DestinationLocation": "Amazon Rainforest",
+      "img": "https://media.istockphoto.com/id/1403938220/photo/young-woman-walking-up-the-stairs-of-the-temple-doi-suthep-in-chiang-mai-thailand.jpg?b=1&s=170667a&w=0&k=20&c=9iD-3MUGTNUhnyNmpqpn27W0v61yqjZ9UvAFHUpbJnU="
+    },
+    {
+      "DestinationName": "Cultural Heritage",
+      "DestinationLocation": "Kyoto, Japan",
+      "img": "https://images.unsplash.com/photo-1533587851505-d119e13fa0d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "DestinationName" : "Historic Landmark",
+      "DestinationLocation": "Machu Picchu, Peru",
+      "img": "https://media.istockphoto.com/id/1384618442/photo/multiracial-friends-taking-big-group-selfie-shot-smiling-at-camera-laughing-young-people.jpg?b=1&s=170667a&w=0&k=20&c=Orb8k-I2wSaAPuCsD2Jee4lSeR-Ty1Ux5KE1W8xBqWU="
+    },
+    {
+      "DestinationName": "Enchanting Waterfalls",
+      "DestinationLocation": "Iguazu Falls, Argentina",
+      "img": "https://media.istockphoto.com/id/1433038139/photo/young-handsome-male-traveler-standing-on-the-street-and-looking-at-the-map.jpg?b=1&s=170667a&w=0&k=20&c=iEoQTHarasngKogk-6HXnGsbiAnc_Wom5dDomuULixE="
+    },
+    {
+      "DestinationName": "Exotic Wildlife",
+      "DestinationLocation": "Maasai Mara, Kenya",
+      "img": "https://images.unsplash.com/photo-1596029928053-0741cd5c5fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzaXRpbmd8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+      "DestinationName": "Serene Lakeside",
+      "DestinationLocation": "Lake Louise, Canada",
+      "img": "https://images.unsplash.com/photo-1595948215236-f9bf96580aa3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlzaXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "DestinationName": "Ancient Ruins",
+      "DestinationLocation": "Angkor Wat, Cambodia",
+      "img": "https://images.unsplash.com/photo-1519922639192-e73293ca430e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    }
+  ]
+  

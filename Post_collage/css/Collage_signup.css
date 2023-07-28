@@ -1,0 +1,76 @@
+.whole-container-signup{
+    background-image: url('https://lh3.googleusercontent.com/p/AF1QipPh5Pug2WI9DutxxhtLbZEsVglj4ciGMi8a4bN9=s680-w680-h510');
+
+    background-size: cover;
+  
+
+    background-color: rgba(22, 14, 14, 0);
+    } 
+.collage_signup-page {
+    max-width: 400px;
+     background-color: rgba( rgba(255, 255, 255, 0.116), aqua, pink,0.2);
+    margin: 0 auto;
+    
+     
+  }
+  
+  .collage_signup-page h2 {
+    text-align: center;
+     border-bottom: 2px solid rgb(17, 114, 114);
+  }
+  
+  .collage_signup-page form {
+    margin-top: 20px;
+   
+  }
+   button.login{
+    margin-top:23px;;
+     margin-bottom: 23px;;
+       background-color:#184215;
+   }
+  .collage_signup-page label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .collage_signup-page input {
+    width: 100%;
+ 
+      border: none;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .collage_signup-page button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .collage_signup-page button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Responsive Styles */
+  
+  @media (max-width: 767px) {
+    .collage_signup-page {
+      max-width: 100%;
+      padding: 0 10px;
+    }
+  
+    .collage_signup-page input {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    .collage_signup-page button[type="submit"] {
+      margin-top: 10px;
+    }
+  }
+  

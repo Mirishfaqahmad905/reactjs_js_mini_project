@@ -1,0 +1,87 @@
+/* login.css */
+
+/* styles for large screens */
+.login_your_credential_here {
+    background-color: rgba(20, 102, 95, 0.705);
+    height: 100vh;
+    /* margin-top: 100px; */
+    display: flex;
+    padding: 23px;;
+    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content:center;
+}
+
+.left-images {
+    text-align: center;
+}
+
+.left-images img {
+    width: 500px;
+    height: auto;
+    margin-left: 40px;
+}
+
+.inputform {
+    background-color:#fff;
+    padding: 40px;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-submit {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+}
+
+.btn-submit:hover {
+    background-color: #136b26;
+}
+
+.custom input {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+/* styles for medium screens */
+@media only screen and (max-width: 768px) {
+    .login_your_credential_here {
+        margin-top: 100px;
+    }
+
+    .left-images img {
+        width: 300px;
+        margin-left: 0;
+    }
+
+    .inputform {
+        max-width: 300px;
+    }
+}
+
+/* styles for small screens */
+@media only screen and (max-width: 480px) {
+    .login_your_credential_here {
+        margin-top: 50px;
+    }
+
+    .left-images img {
+        width: 200px;
+    }
+
+    .inputform {
+        max-width: 200px;
+        padding: 20px;
+    }
+
+    .custom input {
+        margin: 5px;
+        font-size: 14px;
+    }
+}

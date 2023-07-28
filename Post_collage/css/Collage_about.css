@@ -1,0 +1,43 @@
+.container {
+     margin-top: 50px;
+   }
+   
+   .row {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   .col-md-12 {
+     margin-top: 30px;
+   }
+   
+   .text-center {
+     text-align: center;
+   }
+   
+   .mt-5 {
+     margin-top: 3rem !important;
+   }
+   
+   .core-values-list {
+     list-style-type: none;
+     padding: 0;
+   }
+   
+   .core-values-list li {
+     margin-bottom: 15px;
+   }
+   
+   .core-values-list strong {
+     font-weight: bold;
+   }
+   
+   .co {
+     /* Add your custom styles for the co class here */
+   }
+   
+   .md-2 {
+     /* Add your custom styles for the md-2 class here */
+   }
+   

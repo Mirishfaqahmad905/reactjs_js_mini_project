@@ -1,0 +1,71 @@
+/* Collage_admition.css */
+
+/* Container for the whole component */
+.collage_admition_header {
+    /* Add your styles for the container here */
+  }
+  
+  /* Container for the inner row of col-row */
+  .col-row {
+    /* Add your styles for the inner row container here */
+  }
+  
+  /* Columns in the inner row */
+  .col {
+    /* Add your styles for each column here */
+  }
+  
+  /* Left container */
+  .collage_admition_left_container,
+  .collage_admition_main_container,
+  .collage_admition_right_container {
+    /* Add your styles for each container here */
+    width: 200px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Images within the containers */
+  .collage_admition_left_container img,
+  .collage_admition_main_container img,
+  .collage_admition_right_container img {
+    /* Add your styles for the images here */
+    max-width: 100%; /* Ensure image does not overflow its container */
+  }
+  
+  /* Buttons within the containers */
+  .collage_admition_left_container button,
+  .collage_admition_main_container button,
+  .collage_admition_right_container button {
+    /* Add your styles for the buttons here */
+    display: block;
+    margin-top: 10px;
+    background-color: rgb(31, 2, 2);
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  /* Hover effect for containers */
+  .collage_admition_left_container:hover,
+  .collage_admition_main_container:hover,
+  .collage_admition_right_container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .collage_admition_left_container,
+    .collage_admition_main_container,
+    .collage_admition_right_container {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+  

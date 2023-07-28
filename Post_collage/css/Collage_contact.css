@@ -1,0 +1,36 @@
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .contact-form {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .contact-form label,
+  .contact-form input,
+  .contact-form textarea,
+  .contact-form button {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+  }
+  
+  .contact-info {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .map {
+    flex: 1;
+    /* Add styling for map or directions here */
+  }
+  
+  /* Add additional styling for fonts, colors, spacing, etc. as desired */
+  

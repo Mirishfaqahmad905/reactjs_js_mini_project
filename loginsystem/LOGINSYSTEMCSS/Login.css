@@ -1,0 +1,78 @@
+.login-system-account {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  .login-system-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  .login-system-center span img {
+     width: 400px;
+      height: 300px;;
+  }
+  .login-form-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login-email, .login-password {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .login-email label, .login-password label {
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .login-email input, .login-password input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login-email input::placeholder, .login-password input::placeholder {
+    color: #999;
+  }
+  
+  .login-email i, .login-password i {
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 10px;
+    color: #999;
+  }
+  
+  .login-email input:focus + i, .login-password input:focus + i {
+    color: #333;
+  }
+  
+  .login-submit input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+     width: 400px;;
+    cursor: pointer;
+  }
+  
+  .login-submit input:hover {
+    background-color: #555;
+  }
+  
